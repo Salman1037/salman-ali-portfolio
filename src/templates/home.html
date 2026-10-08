@@ -1,0 +1,118 @@
+
+<section class="hero" id="home">
+<div class="hero-top">
+<p class="eyebrow">
+<span class="status-dot">
+</span> FULL-STACK DEVELOPER</p>
+<p class="location">Lahore, Pakistan <span>PK / UTC+5</span>
+</p>
+</div>
+<div class="hero-layout">
+<div>
+<p class="intro">Hi, I’m {{NAME}}.</p>
+<h1>I build the interface.<br>
+<span class="violet">And everything</span>
+<br>behind it.</h1>
+<p class="hero-description">Scalable web applications. Connected systems. Thoughtful experiences—from the first click to the database.</p>
+<div class="hero-actions">
+<a class="button" href="/projects/">Explore my work <span>+</span>
+</a>
+<a class="button secondary" href="#contact">Let’s talk</a>
+</div>
+</div>
+<figure class="stack-panel portrait-panel">
+<img src="{{PORTRAIT}}" alt="Portrait of {{NAME}}" width="960" height="1200" fetchpriority="high">
+<figcaption class="panel-bottom">
+<strong>{{NAME}}</strong>
+<span>FULL-STACK DEVELOPER</span>
+</figcaption>
+</figure>
+</div>
+<div class="hero-meta">
+<span>PROFESSIONAL EXPERIENCE SINCE SEP 2023</span>
+<span>REMOTE & LAHORE OPPORTUNITIES</span>
+<a href="{{RESUME}}" download>Download résumé</a>
+</div>
+</section>
+<div class="tech-strip" aria-label="Core technologies">
+<span>Next.js</span>
+<span>React</span>
+<span>TypeScript</span>
+<span>Node.js</span>
+<span>PostgreSQL</span>
+<span>Prisma</span>
+<span>MongoDB</span>
+</div>
+{{PROJECT_CATALOG}}
+<section class="section home-about reveal"><div><p class="eyebrow">THE DEVELOPER</p><h2>Built with care.<br><span class="dim">Across the stack.</span></h2></div><div><p class="lead">I’m Salman Ali, a full-stack developer based in Lahore.</p><p>I build interfaces, APIs, databases, and integrations—and help software keep working after launch. Explore my background, technical toolkit, and approach.</p><a class="button secondary" href="/about/">More about me <span>+</span></a></div></section>
+
+<section class="section" id="services">
+<div class="section-head reveal">
+<div>
+<p class="eyebrow">05 / HOW I CAN HELP</p>
+<h2>From a clear idea<br>
+<span class="dim">to a working product.</span>
+</h2>
+</div>
+<p>For teams, businesses,<br>and ambitious independent projects.</p>
+</div>
+<div class="service-grid">
+<article class="service reveal">
+<span>01</span>
+<h3>Full-stack development</h3>
+<p>React and Next.js applications connected to backend logic and databases.</p>
+</article>
+<article class="service reveal">
+<span>02</span>
+<h3>CRM & dashboards</h3>
+<p>Business workflows, admin interfaces, authentication, and role-based access.</p>
+</article>
+<article class="service reveal">
+<span>03</span>
+<h3>APIs & AI integrations</h3>
+<p>REST APIs, third-party services, speech tools, and AI-powered features.</p>
+</article>
+<article class="service reveal">
+<span>04</span>
+<h3>Optimization & support</h3>
+<p>Debugging, technical SEO, performance improvements, deployment, and maintenance.</p>
+</article>
+</div>
+</section>
+
+<section class="section contact" id="contact">
+<div class="contact-intro reveal">
+<p class="eyebrow">08 / LET’S CONNECT</p>
+<h2>Your next idea.<br>
+<span class="violet">Let’s build it.</span>
+</h2>
+<p>Have a product to build, a system to improve, or a full-stack role to discuss? I’d like to hear about it.</p>
+<a class="email" href="mailto:{{EMAIL}}">{{EMAIL}}</a>
+<div class="socials">
+<a href="{{LINKEDIN}}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+<a href="{{GITHUB}}" target="_blank" rel="noopener noreferrer">GitHub</a>
+<a href="{{RESUME}}" download>Download résumé</a>
+</div>
+<p class="contact-location">Based in Lahore, Pakistan<br>International remote · Lahore teams · Freelance projects</p>
+</div>
+<form data-recipient="{{EMAIL}}" id="contact-form" class="reveal">
+<label for="name">Your name</label>
+<input id="name" name="name" autocomplete="name" required maxlength="100" placeholder="Alex Morgan">
+<label for="email">Your email</label>
+<input id="email" name="email" type="email" autocomplete="email" required maxlength="200" placeholder="alex@company.com">
+<label for="type">What brings you here?</label>
+<select id="type" name="type">
+<option>Project enquiry</option>
+<option>Full-stack job opportunity</option>
+<option>Collaboration</option>
+</select>
+<label for="message">Tell me about it</label>
+<textarea id="message" name="message" required maxlength="4000" rows="4" placeholder="The idea, the challenge, and what you have in mind…">
+</textarea>
+<button type="submit" class="button">Prepare email <span>+</span>
+</button>
+<p class="form-note">Opens a draft in your email app. Your message is sent only when you send the email.</p>
+<p id="form-status" role="status">
+</p>
+</form>
+</section>

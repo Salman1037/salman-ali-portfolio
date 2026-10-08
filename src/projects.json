@@ -1,0 +1,613 @@
+[
+  {
+    "id": "hired-billing-support",
+    "title": "Hired Billing Support",
+    "group": "Healthcare",
+    "status": "Live website",
+    "image": "hbs.jpg",
+    "url": "https://hiredbillingsupport.com",
+    "summary": "A healthcare revenue cycle management website presenting medical billing, insurance verification, claims management, and healthcare staffing services.",
+    "stack": [
+      "React / Next.js",
+      "Technical SEO",
+      "Performance"
+    ],
+    "context": "A healthcare revenue cycle management website presenting billing support, services, and case studies for medical practices.",
+    "contribution": "Worked on responsive UI, healthcare service pages, case studies, technical SEO, canonical URLs, performance improvements, deployment, and ongoing website maintenance.",
+    "details": [
+      "Built and maintained responsive service experiences using React / Next.js.",
+      "Improved discoverability through technical SEO and canonical URL work.",
+      "Handled performance improvements, deployment, debugging, and maintenance."
+    ],
+    "note": "Development contributions are based on my project experience. Business revenue and client results are not attributed to my development work.",
+    "scope": [
+      "Medical billing and revenue cycle management service pages.",
+      "Insurance verification, claims management, and healthcare staffing content.",
+      "Case studies, technical SEO, responsive UI, and ongoing website maintenance."
+    ],
+    "role": "Website development & maintenance"
+  },
+  {
+    "id": "workdeskva",
+    "title": "WorkdeskVA",
+    "group": "Websites",
+    "status": "Live website",
+    "summary": "A virtual assistant and remote staffing platform helping businesses find professionals for administrative, customer support, and operational work.",
+    "stack": [
+      "React",
+      "Bootstrap 5",
+      "GSAP",
+      "Framer Motion",
+      "Swiper"
+    ],
+    "context": "A remote staffing and virtual assistant platform presenting services and pricing through an interactive web experience.",
+    "contribution": "Worked with React, Bootstrap 5, GSAP, Framer Motion, and Swiper on landing pages, services, pricing, testimonials, navigation, and responsive animations.",
+    "details": [
+      "Interactive landing page and navigation work.",
+      "Service and pricing presentation with responsive layouts.",
+      "Motion and slider integrations using GSAP, Framer Motion, and Swiper."
+    ],
+    "note": "Public website and screenshot available. My involvement covers frontend and motion development; company testimonials and business statistics are not personal achievement claims.",
+    "scope": [
+      "Remote staffing and virtual assistant service presentation.",
+      "Services, pricing, navigation, and interactive landing pages.",
+      "Responsive animation and slider integration."
+    ],
+    "role": "Frontend & motion development",
+    "url": "https://www.workdeskva.com/",
+    "image": "workdeskva.jpg"
+  },
+  {
+    "id": "hbs-dental",
+    "title": "HBS Dental",
+    "group": "Healthcare",
+    "status": "Live website",
+    "image": "dental.jpg",
+    "url": "https://hiredbillingsupport.com/dental",
+    "summary": "A dental billing and practice support website covering insurance verification, patient calls, appointments, claims, and accounts receivable.",
+    "stack": [
+      "Responsive UI",
+      "Animation",
+      "Service pages"
+    ],
+    "context": "A dental services website presenting billing, insurance verification, claims, accounts receivable, and call support.",
+    "contribution": "Worked on animated interfaces, service sections, FAQs, and responsive layouts for dental billing and practice management services.",
+    "details": [
+      "Structured dental service content for eligibility verification, claims management, AR services, and call support.",
+      "Created responsive sections and animated interface treatments.",
+      "Presented service explanations and FAQs with accessible content hierarchy."
+    ],
+    "note": "The screenshot is from the public dental page. Healthcare service results remain the organization’s claims.",
+    "scope": [
+      "Insurance verification and dental claims service information.",
+      "Patient call handling, appointment support, and practice operations content.",
+      "Accounts receivable service sections, FAQs, and animated responsive layouts."
+    ],
+    "role": "Interface & service-page development"
+  },
+  {
+    "id": "hbs-crm",
+    "title": "HBS CRM",
+    "group": "Full-stack",
+    "status": "In development",
+    "url": "https://hbs-crm.vercel.app/",
+    "altUrl": "https://hbs-crm.vercel.app/",
+    "summary": "A healthcare CRM for provider leads, user assignments, call tracking, follow-ups, and sales activity monitoring.",
+    "stack": [
+      "CRM",
+      "Authentication",
+      "Dashboards"
+    ],
+    "context": "A healthcare CRM bringing provider leads, user assignments, calls, and follow-up activity into a business workspace. These describe the product scope; the completion of individual private features remains unconfirmed.",
+    "contribution": "Developing a business CRM with a public authentication entry point. Internal workflows are behind sign-in, so their completion is not presented as verified.",
+    "details": [
+      "Publicly viewable: branded sign-in screen, email and password inputs, and account recovery entry point.",
+      "Feature scope awaiting completion confirmation: lead management, role-based dashboards, permissions, calling workflows, provider history, follow-up scheduling, and notifications.",
+      "Implemented and planned internal features will be documented separately once confirmed."
+    ],
+    "note": "In development. Public screenshot shows the login screen only; no customer data is displayed.",
+    "scope": [
+      "Healthcare provider lead management and lead assignment.",
+      "User dashboards, permissions, and sales activity tracking.",
+      "Calling workflows, provider history, follow-up scheduling, and notifications."
+    ],
+    "role": "CRM development",
+    "related": [
+      "sales-crm",
+      "healthcare-lead-management"
+    ]
+  },
+  {
+    "id": "revex",
+    "title": "REVEX",
+    "group": "AI & Web3",
+    "status": "Project experience",
+    "url": "https://revexapp.com",
+    "summary": "An AI-powered cryptocurrency platform connecting wallets, market data, token information, AI assistance, and blockchain transaction features.",
+    "stack": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Prisma"
+    ],
+    "context": "A crypto and AI application combining account identity, market data, wallet connectivity, and external service integrations.",
+    "contribution": "Worked with Next.js, TypeScript, Prisma, PostgreSQL, Clerk, OpenAI, RainbowKit, Viem, CoinMarketCap, Alchemy, and OKX DEX APIs.",
+    "details": [
+      "Frontend and application work with Next.js and TypeScript.",
+      "Database tooling with Prisma and PostgreSQL; identity integration with Clerk.",
+      "AI, market-data, and wallet-related integrations across the listed services."
+    ],
+    "note": "The supplied deployment URL was unavailable when reviewed. No live screenshot or verified outcome metric is claimed.",
+    "scope": [
+      "Crypto wallet connectivity and token or market information.",
+      "AI assistance and external data integrations.",
+      "Blockchain transaction-related functionality using wallet and DEX services."
+    ],
+    "role": "Full-stack & integration experience"
+  },
+  {
+    "id": "voiceboost",
+    "title": "VoiceBoost.ai",
+    "group": "AI & Web3",
+    "status": "Project experience",
+    "summary": "An AI voice application for converting text into natural-sounding speech and transcribing speech into text.",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js",
+      "Speech APIs"
+    ],
+    "context": "An AI-based application for speech generation and transcription using the MERN stack and speech-related API integrations.",
+    "contribution": "Worked on a MERN-based application with text-to-speech, speech-to-text, and related API integrations.",
+    "details": [
+      "Frontend and backend work in the MERN stack.",
+      "Speech generation and recognition service integrations.",
+      "Application experience connecting user-facing features to external APIs."
+    ],
+    "note": "No public URL, usage metrics, or deployment status was supplied.",
+    "scope": [
+      "Text-to-speech generation through speech-related APIs.",
+      "Speech-to-text transcription workflows.",
+      "MERN frontend and backend integration."
+    ],
+    "role": "MERN & speech API development"
+  },
+  {
+    "id": "bea",
+    "title": "BEA Web Platform",
+    "group": "Full-stack",
+    "status": "Team contribution",
+    "summary": "A multi-feature web platform with authentication, dashboards, community forums, ambassador management, rewards, and commerce scope.",
+    "stack": [
+      "Next.js",
+      "Node.js",
+      "Express",
+      "Prisma",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "context": "A multi-feature platform with authentication, dashboards, community forums, ambassador management, rewards, and e-commerce scope. My contribution focused on the integration and debugging work described below; the wider feature list does not imply that I independently developed every module.",
+    "contribution": "Contributed to Docker database setup, dependency debugging, frontend/backend integration, authentication workflows, and dashboard reviews.",
+    "details": [
+      "Configured and worked with Docker-based database environments.",
+      "Investigated dependency issues and frontend/backend integration.",
+      "Reviewed authentication workflows and dashboard behavior."
+    ],
+    "note": "Contribution to an existing platform. The product scope is distinct from my confirmed involvement in database setup, debugging, integration, authentication workflows, and dashboard reviews.",
+    "scope": [
+      "User authentication and dashboards.",
+      "Community forums, ambassador management, and rewards.",
+      "E-commerce functionality within the wider platform."
+    ],
+    "role": "Team contribution"
+  },
+  {
+    "id": "youth-becoming-engaged",
+    "title": "Youth Becoming Engaged",
+    "group": "Websites",
+    "status": "Live website",
+    "image": "ybe.jpg",
+    "url": "https://youth-becoming-engaged.vercel.app/",
+    "summary": "A public website for youth mentoring and community engagement.",
+    "stack": [
+      "Business website",
+      "Responsive web"
+    ],
+    "context": "The public site introduces youth mentoring, case management, health, learning, and community engagement programs.",
+    "contribution": "Included as a website project in my portfolio. The live site provides a view of its program, service, and contact experiences; detailed implementation responsibilities are available on request.",
+    "details": [
+      "Public program and service information.",
+      "Community partnership and organization content.",
+      "Contact and involvement pathways."
+    ],
+    "note": "No technology stack, individual ownership, or measurable impact is inferred from the public website.",
+    "role": "Website project"
+  },
+  {
+    "id": "win-more-bids",
+    "title": "Win More Bids",
+    "group": "Websites",
+    "status": "Live website",
+    "image": "bids.jpg",
+    "url": "https://win-more-bids-cgxd.vercel.app/",
+    "summary": "A construction estimating website focused on service discovery.",
+    "stack": [
+      "Business website",
+      "Responsive web"
+    ],
+    "context": "A public construction estimating website for contractors exploring estimating, takeoff, material list, and related services.",
+    "contribution": "Included as a website project in my portfolio. Detailed implementation responsibilities can be discussed without attributing the site’s business metrics to my work.",
+    "details": [
+      "Service discovery for construction estimation.",
+      "Navigation to estimating service pages.",
+      "Call scheduling and quote-request entry points."
+    ],
+    "note": "The public site is linked as supplied. No conversion, bid-win, or customer rating results are claimed as my achievements.",
+    "role": "Website project"
+  },
+  {
+    "id": "aiprognoza",
+    "title": "AIPrognoza",
+    "group": "Websites",
+    "status": "Project experience",
+    "url": "https://aiprognoza.com",
+    "summary": "An AI-focused analytics website presenting information, insights, and digital services through a responsive web interface.",
+    "stack": [
+      "React",
+      "Bootstrap",
+      "Responsive UI"
+    ],
+    "context": "An AI-focused analytics website designed to present information, insights, and digital services through a responsive React and Bootstrap interface.",
+    "contribution": "Worked on React and Bootstrap-based responsive website development.",
+    "details": [
+      "React-based UI development.",
+      "Bootstrap layouts and responsive behavior."
+    ],
+    "note": "The supplied domain could not be reached when reviewed. A current live screenshot is not available.",
+    "scope": [
+      "Responsive presentation of AI-focused information and insights.",
+      "Digital service content through a React and Bootstrap interface."
+    ],
+    "role": "Responsive frontend development"
+  },
+  {
+    "id": "sales-crm",
+    "title": "Sales CRM",
+    "group": "Full-stack",
+    "status": "Related CRM scope",
+    "summary": "A sales management system for organizing leads, customer information, sales activities, and follow-up workflows.",
+    "stack": [
+      "CRM workflows",
+      "Lead management",
+      "Sales operations"
+    ],
+    "role": "Related CRM project scope",
+    "context": "A business sales-management scope covering leads, customer records, sales activity, and follow-ups. It overlaps with the HBS CRM work rather than establishing another independently completed application.",
+    "contribution": "CRM project scope described alongside HBS CRM. Separate implementation responsibilities and completion status are not confirmed.",
+    "scope": [
+      "Lead organization and customer information management.",
+      "Sales activity monitoring.",
+      "Follow-up workflows and task tracking."
+    ],
+    "details": [
+      "Shown as a related CRM entry, not a separate completed deployment.",
+      "The supplied sales-crm URL is also associated with the HBS CRM entry.",
+      "Private functionality and individual completion states remain unconfirmed."
+    ],
+    "note": "Related to HBS CRM and healthcare lead management. No duplicate production-delivery claim is made.",
+    "related": [
+      "hbs-crm",
+      "healthcare-lead-management"
+    ],
+    "url": "https://sales-crm-black-three.vercel.app/",
+    "image": "crm.jpg"
+  },
+  {
+    "id": "healthcare-lead-management",
+    "title": "Healthcare Lead Management System",
+    "group": "Full-stack",
+    "status": "Related CRM workflow",
+    "summary": "A healthcare CRM workflow for provider imports, NPI information, company or employee lead assignment, and sales follow-ups.",
+    "stack": [
+      "Healthcare CRM",
+      "Provider datasets",
+      "Lead assignment"
+    ],
+    "role": "Healthcare CRM workflow scope",
+    "context": "A healthcare-specific lead workflow covering provider datasets, NPI-related information, assignment, and follow-up organization within the broader CRM work.",
+    "contribution": "Workflow scope described alongside the HBS CRM. This entry does not establish a separately completed lead-management application.",
+    "scope": [
+      "Healthcare provider dataset imports and NPI-related information.",
+      "Lead assignment to companies or employees.",
+      "Sales follow-up organization and tracking."
+    ],
+    "details": [
+      "Describes provider-specific workflow requirements.",
+      "Relates to HBS CRM and the wider Sales CRM scope.",
+      "Dataset import behavior and completed private features have not been confirmed."
+    ],
+    "note": "Related workflow, not a separate verified production application. No provider or customer data is exposed in the portfolio.",
+    "related": [
+      "hbs-crm",
+      "sales-crm"
+    ]
+  },
+  {
+    "id": "guardianx",
+    "title": "GuardianX",
+    "group": "Explorations",
+    "status": "Prototype",
+    "summary": "A parental control mobile prototype exploring children’s screen time, app usage, and digital activity monitoring.",
+    "stack": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "Android services"
+    ],
+    "context": "A parental control prototype exploring screen-time monitoring and Android background behavior.",
+    "contribution": "Prototype work using Flutter and Firebase, with Android services, usage permissions, and background monitoring.",
+    "details": [
+      "Explored screen-time and usage monitoring.",
+      "Worked with Android services and permission handling.",
+      "Investigated background monitoring behavior."
+    ],
+    "note": "Prototype; not presented as a deployed, production parental control product.",
+    "scope": [
+      "Screen-time and app usage monitoring exploration.",
+      "Android usage permissions, services, and background monitoring.",
+      "Digital activity oversight within a Flutter and Firebase prototype."
+    ],
+    "role": "Mobile prototype exploration",
+    "related": [
+      "parental-control-saas"
+    ]
+  },
+  {
+    "id": "utrisa",
+    "title": "Utrisa E-commerce",
+    "group": "Explorations",
+    "status": "Architecture concept",
+    "summary": "An online shopping concept covering products, categories, cart, checkout, customer accounts, orders, and an admin dashboard.",
+    "stack": [
+      "Next.js",
+      "Commerce architecture"
+    ],
+    "context": "An e-commerce architecture concept covering storefront and administration flows.",
+    "contribution": "Architecture and development planning involving products, collections, cart, checkout, authentication, admin panels, inventory, and orders.",
+    "details": [
+      "Outlined storefront and product collection flows.",
+      "Planned cart, checkout, identity, and administrative workflows.",
+      "Considered inventory and order management architecture."
+    ],
+    "note": "Concept and architecture work. Listed flows are scope, not claims of completed production features.",
+    "scope": [
+      "Product listings, categories, and collection browsing.",
+      "Cart, checkout, customer accounts, and authentication scope.",
+      "Order management, inventory, and administrative interface planning."
+    ],
+    "role": "Commerce architecture concept",
+    "related": [
+      "nextjs-ecommerce-storefront"
+    ]
+  },
+  {
+    "id": "ball-runner",
+    "title": "Ball Runner",
+    "group": "Explorations",
+    "status": "Game project",
+    "summary": "A 3D Unity obstacle game where players guide a rolling ball through tracks, avoid obstacles, and progress between levels.",
+    "stack": [
+      "Unity",
+      "C#",
+      "3D game UI"
+    ],
+    "context": "A Unity and C# obstacle game project.",
+    "contribution": "Developed level selection, player movement, and game UI.",
+    "details": [
+      "Player movement and obstacle gameplay.",
+      "Level selection flow.",
+      "Game interface implementation."
+    ],
+    "note": "Game project; no commercial release or player metrics claimed.",
+    "scope": [
+      "Rolling-ball movement and obstacle avoidance.",
+      "Tracks, level selection, and progression.",
+      "Player-facing game interface."
+    ],
+    "role": "Unity & C# game development"
+  },
+  {
+    "id": "reverse-horror",
+    "title": "Reverse Horror",
+    "group": "Explorations",
+    "status": "Academic concept",
+    "summary": "A Unity horror concept where a monster hunts humans disguised as objects, with adaptive enemy AI planned.",
+    "stack": [
+      "Unity",
+      "Game design"
+    ],
+    "context": "An academic game concept where the player controls a monster hunting humans disguised as objects.",
+    "contribution": "Concept development for reverse-role gameplay, with AI-based behavior planned.",
+    "details": [
+      "Defined the reverse-role gameplay premise.",
+      "Explored humans disguised as objects within the game concept.",
+      "AI-based behavior remains planned."
+    ],
+    "note": "Academic concept. Planned AI behavior is not represented as implemented.",
+    "scope": [
+      "Reverse-role gameplay with a monster-controlled player.",
+      "Humans disguised as objects within the game premise.",
+      "Adaptive enemy AI planned as a future component."
+    ],
+    "role": "Academic game concept"
+  },
+  {
+    "id": "nextjs-ecommerce-storefront",
+    "title": "Next.js E-commerce Storefront",
+    "group": "Explorations",
+    "status": "System architecture",
+    "summary": "A full-stack commerce architecture spanning shopping, inventory, identity, orders, payments, and admin or worker roles.",
+    "stack": [
+      "Next.js",
+      "Commerce architecture",
+      "Role management"
+    ],
+    "role": "System architecture exploration",
+    "context": "An e-commerce system architecture intended to connect storefront shopping with operational inventory, order, payment, and role-management workflows.",
+    "contribution": "Architecture exploration for a Next.js commerce system. A completed production implementation or independent project ownership is not claimed.",
+    "scope": [
+      "Customer shopping and product inventory.",
+      "Authentication, order management, and payment workflows.",
+      "Admin and worker role management."
+    ],
+    "details": [
+      "Considered the relationship between storefront and operational workflows.",
+      "Outlined identity and role boundaries across customer, admin, and worker experiences.",
+      "Implementation and release status have not been confirmed."
+    ],
+    "note": "Architecture entry related to Utrisa E-commerce. It is not counted as a separately verified production store.",
+    "related": [
+      "utrisa"
+    ]
+  },
+  {
+    "id": "parental-control-saas",
+    "title": "Parental Control SaaS",
+    "group": "Explorations",
+    "status": "Proposed platform",
+    "summary": "A proposed parental monitoring platform with filtering, app blocking, time limits, reports, location features, and AI safety insights.",
+    "stack": [
+      "SaaS concept",
+      "Parental monitoring",
+      "AI safety concept"
+    ],
+    "role": "Proposed product exploration",
+    "context": "A proposed parental monitoring platform extending the wider parental-control idea into a service-oriented product. Its feature list describes an intended scope.",
+    "contribution": "Product concept exploration. The proposed capabilities are not presented as implemented or released.",
+    "scope": [
+      "Website filtering, app blocking, and screen-time limits.",
+      "Activity reports and location monitoring.",
+      "AI-assisted safety insights."
+    ],
+    "details": [
+      "Explored a broader parental-monitoring service concept.",
+      "Privacy, consent, permissions, and implementation would require further design.",
+      "No operational monitoring service is claimed."
+    ],
+    "note": "Proposed concept related to GuardianX. The mobile prototype and the SaaS proposal are different stages of related work.",
+    "related": [
+      "guardianx"
+    ]
+  },
+  {
+    "id": "developer-portfolio-3d",
+    "title": "3D Developer Portfolio",
+    "group": "Explorations",
+    "status": "Portfolio concept",
+    "summary": "An interactive portfolio concept combining animated sections, 3D visuals, developer experience, skills, and project showcases.",
+    "stack": [
+      "Interactive UI concept",
+      "3D presentation",
+      "Motion design"
+    ],
+    "role": "Portfolio experience concept",
+    "context": "A personal portfolio concept exploring animated presentation and 3D visuals alongside developer experience, technical skills, and project showcases.",
+    "contribution": "Portfolio design and interaction concept. A fully implemented 3D experience is not claimed by this entry.",
+    "scope": [
+      "Animated sections and 3D visual presentation.",
+      "Developer introduction, experience, and technical skills.",
+      "Project showcases and professional profile content."
+    ],
+    "details": [
+      "Explored how motion and depth could support a developer narrative.",
+      "The concept is distinct from the currently published portfolio.",
+      "Advanced 3D implementation status is not confirmed."
+    ],
+    "note": "Concept entry, not a separate finished 3D application."
+  },
+  {
+    "id": "fast-food-ordering",
+    "title": "Fast Food Ordering Website",
+    "group": "Explorations",
+    "status": "Website concept",
+    "summary": "A restaurant ordering concept with a food menu, category filters, item details, cart, and online ordering flow.",
+    "stack": [
+      "Restaurant website concept",
+      "Cart workflow",
+      "Menu browsing"
+    ],
+    "role": "Ordering experience concept",
+    "context": "A restaurant website concept intended to let visitors browse food, inspect items, build a cart, and move through an ordering workflow.",
+    "contribution": "Website and interaction concept. A working checkout or real ordering service is not claimed.",
+    "scope": [
+      "Food menu and category filtering.",
+      "Product details and shopping cart.",
+      "Online ordering workflow."
+    ],
+    "details": [
+      "Explored the path from menu browsing to cart review.",
+      "Ordering and payment behavior would require implementation and validation.",
+      "No live restaurant order processing is asserted."
+    ],
+    "note": "Project concept related in subject to the broader Food Delivery Application.",
+    "related": [
+      "food-delivery"
+    ]
+  },
+  {
+    "id": "ai-job-monitoring",
+    "title": "AI Job Monitoring & Application Automation",
+    "group": "Explorations",
+    "status": "Proposed automation",
+    "summary": "A proposed system for finding jobs and freelance projects, tracking opportunities, notifying users, and assisting with applications.",
+    "stack": [
+      "Automation concept",
+      "Opportunity tracking",
+      "AI assistance"
+    ],
+    "role": "Automation concept exploration",
+    "context": "A proposed automation system intended to organize relevant job and freelance opportunities and support application workflows.",
+    "contribution": "System concept exploration. No active job-monitoring service or unattended application system is claimed.",
+    "scope": [
+      "Discovery of relevant jobs and freelance projects.",
+      "Opportunity tracking and user notifications.",
+      "Assistance with job application workflows."
+    ],
+    "details": [
+      "Explored opportunity discovery and organization.",
+      "Notification sources, eligibility rules, and application review would need definition.",
+      "No applications are submitted by this portfolio."
+    ],
+    "note": "Proposed system. Discovery, notifications, and application assistance remain concept scope."
+  },
+  {
+    "id": "food-delivery",
+    "title": "Food Delivery Application",
+    "group": "Explorations",
+    "status": "Application concept",
+    "summary": "A food delivery concept spanning restaurant discovery, menus, cart management, customer orders, and delivery tracking.",
+    "stack": [
+      "Delivery app concept",
+      "Restaurant discovery",
+      "Order workflows"
+    ],
+    "role": "Application architecture concept",
+    "context": "A food delivery application concept connecting restaurant discovery and menu browsing with carts, customer orders, and delivery tracking.",
+    "contribution": "Product and application concept. A production delivery service or completed tracking system is not claimed.",
+    "scope": [
+      "Restaurant listings and menu browsing.",
+      "Cart management and customer orders.",
+      "Delivery tracking workflow."
+    ],
+    "details": [
+      "Explored the journey from restaurant selection to order tracking.",
+      "The scope would require operational, payment, and delivery integrations.",
+      "No live fulfilment or delivery service is represented."
+    ],
+    "note": "Application concept related to the Fast Food Ordering Website; these are not presented as two completed commerce products.",
+    "related": [
+      "fast-food-ordering"
+    ]
+  }
+]
