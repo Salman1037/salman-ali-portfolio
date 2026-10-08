@@ -1,10 +1,17 @@
 const header = document.querySelector('header');
 const menu = document.querySelector('.menu-toggle');
 
+// Reveal as soon as the DOM can paint; never wait for fonts, images, or a fake timer.
+requestAnimationFrame(() => requestAnimationFrame(() => {
+  document.documentElement.classList.remove('is-loading');
+}));
+
 function setMenu(open) {
   header?.classList.toggle('menu-open', open);
   menu?.setAttribute('aria-expanded', String(open));
   menu?.setAttribute('aria-label', open ? 'Close navigation' : 'Open navigation');
+  const icon = menu?.querySelector('span');
+  if (icon) icon.textContent = open ? '−' : '+';
 }
 
 menu?.addEventListener('click', () => setMenu(!header.classList.contains('menu-open')));

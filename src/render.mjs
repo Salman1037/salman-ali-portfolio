@@ -42,6 +42,14 @@ function layout({ title, description, pathname, body, site, person = false }) {
   ${schema}
 </head>
 <body>
+  <div class="site-loader" aria-hidden="true"><div class="loader-inner"><span class="loader-monogram">SA<span>.</span></span><span class="loader-name">SALMAN ALI</span><span class="loader-track"><span></span></span><span class="loader-caption">FULL-STACK DEVELOPER</span></div></div>
+  <script>
+    if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      document.documentElement.classList.add('is-loading');
+      window.setTimeout(function () { document.documentElement.classList.remove('is-loading'); }, 1500);
+      window.addEventListener('pageshow', function (event) { if (event.persisted) document.documentElement.classList.remove('is-loading'); });
+    }
+  </script>
   <a class="skip-link" href="#main">Skip to content</a>
   <div class="scroll-progress" aria-hidden="true"></div>
   <header>${fill(template('header'), site).replace(`href="${pathname}"`, `href="${pathname}" aria-current="page"`)}</header>

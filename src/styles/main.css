@@ -1407,3 +1407,23 @@ nav a[aria-current="page"] { color: #c3f85c; }
   .page-intro { padding-top: 35px; }
   .about-intro .portrait-panel { max-width: 380px; }
 }
+/* A brief brand introduction; hidden by default and never blocks input. */
+.site-loader { position: fixed; inset: 0; z-index: 90; display: grid; place-items: center; background: #101210; opacity: 0; visibility: hidden; pointer-events: none; transition: opacity .28s ease, visibility .28s; }
+.is-loading .site-loader { opacity: 1; visibility: visible; }
+.loader-inner { display: flex; align-items: center; flex-direction: column; gap: 22px; padding: 25px; }
+.loader-monogram { font-family: 'Space Grotesk', sans-serif; font-size: clamp(72px, 13vw, 112px); line-height: 1; letter-spacing: -.09em; color: #f2f3ed; }
+.loader-monogram > span { color: #c3f85c; }
+.loader-name { font-size: 12px; letter-spacing: .32em; color: #f2f3ed; }
+.loader-caption { font-size: 10px; letter-spacing: .2em; color: #a7ae9f; }
+.loader-track { width: 160px; height: 2px; overflow: hidden; background: #30342c; }
+.loader-track > span { display: block; width: 45%; height: 100%; background: #c3f85c; animation: loader-sweep .85s ease-in-out infinite; }
+@keyframes loader-sweep { from { transform: translateX(-105%); } to { transform: translateX(325%); } }
+@media (prefers-reduced-motion: reduce) { .site-loader, .is-loading .site-loader { display: none; } }
+@media (hover: hover) and (pointer: fine) {
+  .button { transition: transform .2s ease, box-shadow .2s ease, background-color .2s ease; }
+  .button:hover { transform: translateY(-2px); box-shadow: 0 8px 24px #0003; }
+  .project-card { transition: border-color .2s ease, box-shadow .2s ease; }
+  .project-card:hover { border-color: #73885e; box-shadow: 0 12px 35px #0003; }
+}
+.project-card:focus-within { border-color: #c3f85c; }
+.menu-toggle[aria-expanded="true"] { border-color: #c3f85c; color: #c3f85c; }
